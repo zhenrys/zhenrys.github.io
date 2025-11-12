@@ -22,7 +22,7 @@ I'm **Henry Zhang**, a senior student majoring in **Data Science** at the **Scho
 
 During my undergraduate studies, I took a broad range of **mathematics and statistics courses**, which strengthened my analytical thinking and honed my skills in mathematical modeling. These experiences also nurtured my ability for **independent learning** and sparked my passion for practical algorithms in computer science.
 
-My current academic interests center on **Computer Vision**, particularly **Vision–Language Models (VLMs)**. I am actively exploring cutting-edge approaches in this area to deepen my understanding of multimodal intelligence.
+My current academic interests center on **Computer Vision**, particularly **Vision–Language Models (VLMs) and Reinforcement Learning**. I am actively exploring cutting-edge approaches in this area to deepen my understanding of multimodal intelligence.
 
 Beyond academics, I’m a **tech enthusiast** who enjoys keeping up with the latest digital innovations and gadgets. I’m also a **movie and TV series lover** — my all-time favorites include *Game of Thrones*, *The Lord of the Rings*, *Sherlock*, and *Star Wars*. In addition, I’m an avid **volleyball lover**.
 
@@ -35,7 +35,7 @@ If you share similar interests or would like to discuss research ideas, feel fre
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2025.09*: &nbsp; Admitted to the Media Computing Lab, College of Computer Science, Nankai University for graduate studystudy.
+- *2025.09*: &nbsp; Admitted to the VCIP Lab, College of Computer Science, Nankai University for graduate study.
 
 
 
