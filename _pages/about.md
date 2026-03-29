@@ -18,15 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I'm **Henry Zhang**, a senior student majoring in **Data Science** at the **School of Statistics and Data Science**, **Nankai University**.
+I'm **Henry Zhang**, a senior undergraduate student majoring in **Data Science** at the **School of Statistics and Data Science, Nankai University**.
 
-During my undergraduate studies, I took a broad range of **mathematics and statistics courses**, which strengthened my analytical thinking and honed my skills in mathematical modeling. These experiences also nurtured my ability for **independent learning** and sparked my passion for practical algorithms in computer science.
+I am currently learning about **vision-language models**, **reinforcement learning**, and **efficient model inference and training**. I am also trying to learn more about related areas such as **video understanding** and to stay updated with recent progress in these fields.
 
-My current academic interests center on **Computer Vision**, particularly **Vision–Language Models (VLMs) and Reinforcement Learning**. I am actively exploring cutting-edge approaches in this area to deepen my understanding of multimodal intelligence.
-
-Beyond academics, I’m a **tech enthusiast** who enjoys keeping up with the latest digital innovations and gadgets. I’m also a **movie and TV series lover** — my all-time favorites include *Game of Thrones*, *The Lord of the Rings*, *Sherlock*, and *Star Wars*. In addition, I’m an avid **volleyball lover**.
-
-If you share similar interests or would like to discuss research ideas, feel free to reach out to me at **[zhanghenryNKU@163.com](mailto:zhanghenryNKU@163.com)**.
+If you have similar interests or would like to exchange ideas, feel free to reach out to me at **[zhanghenryNKU@163.com](mailto:zhanghenryNKU@163.com)**.
 
 
 
@@ -60,11 +56,9 @@ If you share similar interests or would like to discuss research ideas, feel fre
 
 
 # 📖 Educations
-- *2026.09 (Admitted)* &nbsp;&nbsp; 🎓 **M.Eng. in Computer Science**, *School of Computer Science, Nankai University*  
-  Admitted through recommendation (推免). Research interests focus on vision-language models and multimodal understanding.  
+- *2026.09 (Admitted)* &nbsp;&nbsp; 🎓 **M.Eng. in Computer Science**, *School of Computer Science, Nankai University*   
 
 - *2022.09 – Present* &nbsp;&nbsp; 🎓 **B.S. in Data Science**, *School of Statistics and Data Science, Nankai University*  
-  Core coursework includes *Mathematical Analysis*, *Probability Theory*, *Mathematical Statistics*, *Regression Analysis*, *Optimization*, *Stochastic Processes*, and *Machine Learning*.
 
 
 
@@ -72,10 +66,8 @@ If you share similar interests or would like to discuss research ideas, feel fre
 
 #### Competitions
 - *2024.11* &nbsp;&nbsp; **National First Prize**, *China Undergraduate Mathematical Contest in Modeling (CUMCM)*  
-  Awarded to the top 0.3% of teams nationwide. 
 
 - *2024.08* &nbsp;&nbsp; **Bronze Prize**, *Nankai University Mathematical Modeling Competition*  
-  A university-level contest assessing teamwork and the application of mathematical models and programming techniques to solve practical problems. Awarded to the top 5% of teams.
 
 - *2023.12* &nbsp;&nbsp; **Third Prize (Tianjin Division)**, *The Chinese Mathematics Competitions for College Students (CMC)*
 
